@@ -1,0 +1,20 @@
+#nav-list{
+	background-color: #34495E;
+}
+#nav-list a{
+color:#85C1E9;
+}
+#nav-list a:hover{
+	background-color: #5D6D7E;
+}
+
+
+.row{
+	height: 1000px;
+	background-color: #85C1E9;
+}
+
+
+.navbar-fixed-top{
+	position:relative;
+}
